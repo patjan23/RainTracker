@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>RainTracker</name>
+    </assembly>
+    <members>
+        <member name="M:RainTracker.Controllers.RainController.Get">
+            <summary>
+            Retrieves rain data for a specific user
+            </summary>
+            <param name="userId">User identifier from x-userId header</param>
+            <returns>Array of rain data records for the user</returns>
+            <response code="200">Returns the rain data for the user</response>
+            <response code="400">If the x-userId header is missing or invalid</response>
+            <response code="500">If there was an internal server error</response>
+        </member>
+        <member name="M:RainTracker.Controllers.RainController.Post(RainTracker.Models.RainRecordDto)">
+            <summary>
+            Records new rain data for a user
+            </summary>
+            <param name="userId">User identifier from x-userId header</param>
+            <param name="request">Rain data to record</param>
+            <returns>Status of the operation</returns>
+            <response code="201">Rain data successfully recorded</response>
+            <response code="400">If the request is invalid or x-userId header is missing</response>
+            <response code="500">If there was an internal server error</response>
+        </member>
+        <!-- Badly formed XML comment ignored for member "T:RainTracker.Models.RainDataResponse" -->
+        <member name="P:RainTracker.Models.RainDataResponse.Data">
+            <summary>
+            Array of rain data records
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "T:RainTracker.Models.RainDataItem" -->
+        <member name="P:RainTracker.Models.RainDataItem.Timestamp">
+            <summary>
+            Timestamp when the rain data was recorded (ISO 8601 format)
+            </summary>
+            <example>2024-11-05T19:51:33.294Z</example>
+        </member>
+        <member name="P:RainTracker.Models.RainDataItem.Rain">
+            <summary>
+            Whether it rained or not
+            </summary>
+            <example>true</example>
+        </member>
+    </members>
+</doc>
