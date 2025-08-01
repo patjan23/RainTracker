@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "gDuYyCqSEO0HFkEz+h25cMmINMYUXKVfFdx3ylFu93Y4uQXAhjxBvQIdgNGEVHXtiGjYv7pCaiM9bmkE0U9n1A==",
+  "dgSpecHash": "EVbSKbdlh1k=",
   "success": true,
   "projectFilePath": "E:\\code\\final\\AutoDesk\\RainTracker.Test\\RainTracker.Test.csproj",
   "expectedPackageFiles": [
@@ -69,7 +69,10 @@
     "C:\\Users\\patja\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
     "C:\\Users\\patja\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\Users\\patja\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
-    "C:\\Users\\patja\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+    "C:\\Users\\patja\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\patja\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\patja\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\patja\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512"
   ],
   "logs": []
 }

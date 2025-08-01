@@ -276,9 +276,10 @@ E:\code\final\AutoDesk\RainTracker.Test\obj\Debug\net7.0\RainTracker.Test.Genera
 E:\code\final\AutoDesk\RainTracker.Test\obj\Debug\net7.0\RainTracker.Test.AssemblyInfoInputs.cache
 E:\code\final\AutoDesk\RainTracker.Test\obj\Debug\net7.0\RainTracker.Test.AssemblyInfo.cs
 E:\code\final\AutoDesk\RainTracker.Test\obj\Debug\net7.0\RainTracker.Test.csproj.CoreCompileInputs.cache
-E:\code\final\AutoDesk\RainTracker.Test\obj\Debug\net7.0\RainTracker.Test.csproj.CopyComplete
 E:\code\final\AutoDesk\RainTracker.Test\obj\Debug\net7.0\RainTracker.Test.dll
 E:\code\final\AutoDesk\RainTracker.Test\obj\Debug\net7.0\refint\RainTracker.Test.dll
 E:\code\final\AutoDesk\RainTracker.Test\obj\Debug\net7.0\RainTracker.Test.pdb
 E:\code\final\AutoDesk\RainTracker.Test\obj\Debug\net7.0\RainTracker.Test.genruntimeconfig.cache
 E:\code\final\AutoDesk\RainTracker.Test\obj\Debug\net7.0\ref\RainTracker.Test.dll
+E:\code\final\AutoDesk\RainTracker.Test\obj\Debug\net7.0\RainTracker.Test.sourcelink.json
+E:\code\final\AutoDesk\RainTracker.Test\obj\Debug\net7.0\RainTrac.B21D93FD.Up2Date

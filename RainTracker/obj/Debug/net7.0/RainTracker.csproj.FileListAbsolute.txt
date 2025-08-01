@@ -691,10 +691,11 @@ E:\code\final\AutoDesk\RainTracker\obj\Debug\net7.0\staticwebassets.pack.json
 E:\code\final\AutoDesk\RainTracker\obj\Debug\net7.0\staticwebassets.build.json
 E:\code\final\AutoDesk\RainTracker\obj\Debug\net7.0\staticwebassets.development.json
 E:\code\final\AutoDesk\RainTracker\obj\Debug\net7.0\scopedcss\bundle\RainTracker.styles.css
-E:\code\final\AutoDesk\RainTracker\obj\Debug\net7.0\RainTracker.csproj.CopyComplete
 E:\code\final\AutoDesk\RainTracker\obj\Debug\net7.0\RainTracker.dll
 E:\code\final\AutoDesk\RainTracker\obj\Debug\net7.0\refint\RainTracker.dll
 E:\code\final\AutoDesk\RainTracker\obj\Debug\net7.0\RainTracker.xml
 E:\code\final\AutoDesk\RainTracker\obj\Debug\net7.0\RainTracker.pdb
 E:\code\final\AutoDesk\RainTracker\obj\Debug\net7.0\RainTracker.genruntimeconfig.cache
 E:\code\final\AutoDesk\RainTracker\obj\Debug\net7.0\ref\RainTracker.dll
+E:\code\final\AutoDesk\RainTracker\obj\Debug\net7.0\RainTracker.sourcelink.json
+E:\code\final\AutoDesk\RainTracker\obj\Debug\net7.0\RainTrac.B60B7247.Up2Date
